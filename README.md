@@ -7,3 +7,6 @@
 4. **Left Click** on any door to spawn the keypad and place where desired with physgun
 5. **Right Click** on the keypad then on the desired door to link it
 6. Profit
+
+
+**Issue raised about no rate limiting fix in progress**
