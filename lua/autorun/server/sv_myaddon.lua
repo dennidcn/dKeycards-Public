@@ -1,6 +1,3 @@
-if not SERVER then return end
-
-
 function DKEYCARDS.GetPlayerClearanceLevel(ply)
     local highestLevel = 0
     
